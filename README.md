@@ -67,15 +67,3 @@ Handles MySQL database connectivity using JDBC.
 ### 4️⃣ **Payroll System (`Payroll.java`)**  
 - Calculates salary based on present days in a month.  
 - Saves payroll details and allows salary updates.  
-
----
-
-## Contribution  
-📌 Developers can contribute by **adding new features, optimizing code, or improving the UI**.  
-💡 Feel free to **fork, submit issues, or create pull requests**!  
-
-🚀 **Let's build an efficient Employee Attendance System!**  
-
----
-
-Would you like me to add anything else? 😊
